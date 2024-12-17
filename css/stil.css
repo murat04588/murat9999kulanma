@@ -1,0 +1,207 @@
+.resimSlider{
+    height:600px;
+    
+}
+
+body{
+    padding-top: 110px;
+}
+
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.merhaba{
+    padding: 0px 100px;
+}
+
+.merebe{
+    padding: 30px;
+}
+
+
+.hakkimizda{
+    background-color: #ebebeb;
+}
+
+.ayrac{
+    border: none;
+    border-top:3px solid black;
+    max-width: 250px;
+    margin: 25px auto;
+    
+}
+
+.imurat{
+    color: black;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border:15px solid #ebebeb ;
+    background-color: #ebebeb;
+}
+
+
+.smurat{
+    color: black;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border:15px solid white ;
+    background-color: white;
+}
+
+
+.pmurat{
+    color: black;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border:15px solid white ;
+    background-color: white;
+}
+
+
+.cmurat{    
+    color: black;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border:15px solid #ebebeb;
+    background-color: #ebebeb;
+}
+
+.iletisim{
+    background-color: #ebebeb;
+}
+
+
+
+
+
+
+
+.container {
+    margin-top: 60px;
+}
+.section-title {
+    font-size: 2.5rem;
+    font-weight: 600;
+    color: #0056b3;
+    margin-bottom: 40px;
+    text-transform: uppercase;
+}
+.contact-form .form-control {
+    border-radius: 5px;
+}
+.contact-form .btn {
+    background-color: #0056b3;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 12px 30px;
+    width: 100%;
+}
+.contact-form .btn:hover {
+    background-color: #004085;
+}
+.card-custom {
+    border: none;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    padding: 25px;
+    background-color: #fff;
+    margin-bottom: 30px;
+}
+.contact-info p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
+.social-btns a {
+    font-size: 1.1rem;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-right: 15px;
+    transition: all 0.3s ease;
+}
+.social-btns .btn:hover {
+    transform: scale(1.1);
+}
+.map-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+    margin-top: 50px;
+}
+.map-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+/* Responsiveness */
+@media (max-width: 768px) {
+    .contact-form .btn {
+        width: auto;
+    }
+    .section-title {
+        font-size: 2rem;
+    }
+}
+
+
+
+.harita{
+    border-radius: 50px;
+}
+
+
+.ekibimiz>img:hover{
+    opacity: 0.8;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+body {
+    padding-top: 20px;
+}
+footer {
+    margin-top: 30px;
+    text-align: center;
+    padding: 10px;
+    background-color: #f1f1f1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
